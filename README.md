@@ -1,1 +1,1 @@
-# Bingo game example
+# Juego del Bingo
