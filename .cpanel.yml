@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/juego/repositories/public_html/
+    - export DEPLOYPATH=/home/juego/repositories/bingo/public_html/
     - /bin/rsync -av juego/repositories/bingo $DEPLOYPATH
